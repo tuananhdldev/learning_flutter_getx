@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 <img src ='flutter_01.png' />
-<img src ='flutter_03.png' />
+<img src ='flutter_02.png' />
 Learning Flutter GetX
 - Connect API with Getx Connect.
 - Getx controller.
